@@ -2,7 +2,7 @@
 var token = "........";
 var teleURL = "https://api.telegram.org/bot" + token;
 // webappURL taken from URL given after running setWebhook() function
-var webappURL = "https://script.google.com/macros/s/AKfycbw4cdNaCAjtXdQWR9Dw5xlQGMTwbvw_zblWoj-lFYDKDwk-vuz-mgd40z99LImFIToNVA/exec";
+var webappURL = ".......";
 
 
 
