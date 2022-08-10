@@ -1,6 +1,8 @@
 # Expenses_TeleBot
 Telegram bot to help track expenses.
 
+Inspired by https://www.youtube.com/channel/UC-lw27XNq5ZSAfvEIRRZ7vg .
+
 Create new Google Sheets.
 
 Go to Extentsions -> Apps Script.
